@@ -39,7 +39,8 @@ Dwi Rizky Mahesa:
 Design
 -ClasDiagram
 
-![PBO_Final](https://user-images.githubusercontent.com/95562016/147388526-ef970bff-765b-4dca-97d3-0eba6198cce2.png)
+![PBO_Final](https://user-images.githubusercontent.com/95562016/147390118-a671584f-b3d3-4382-97d5-70670e0d96dd.png)
+
 
 - ER Diagram
 
