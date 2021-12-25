@@ -23,6 +23,7 @@ Miftahul Ahdiyat:
 - dbHelper.java
 - rekeningDataModel.java
 - formNasabahController.java
+- koperasi.db
  
 Berdo Nagoya:
 - Individu.java
